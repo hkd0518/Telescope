@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>resource/icon/telescope.png</file>
-        <file>resource/icon/chat2.png</file>
-        <file>resource/icon/exit.png</file>
-        <file>resource/icon/switch.png</file>
-    </qresource>
-</RCC>
